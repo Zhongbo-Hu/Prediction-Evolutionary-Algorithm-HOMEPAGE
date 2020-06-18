@@ -10,4 +10,6 @@ Articles -- Grey Prediction Evolutionary Algorithm:
 
 [3] Canyun Dai, Zhongbo Hu*, Zheng Li, et.al. An improved grey prediction evolution algorithm based on Topological Opposition-based learning. IEEE Access, vol. 8, pp. 30745-30762, 2020. https://doi.org/10.1109/ACCESS.2020.2973197.
 
-[4] Zhongbo Hu*, Zheng Li, Canyun Dai, et.al. Multiobjective grey prediction evolution algorithm for environmental/economic dispatch problem. IEEE Access, Accept 2020/4/29. https://doi.org/10.1109/ACCESS.2020.2992116. Corresponding Mat.Code: MOGPEA_Matlab.
+[4] Zhongbo Hu*, Zheng Li, Canyun Dai, et.al. Multiobjective grey prediction evolution algorithm for environmental/economic dispatch problem. IEEE Access, vol. 8, pp. 84162-84176, 2020. https://doi.org/10.1109/ACCESS.2020.2992116. Corresponding Mat.Code: MOGPEA_Matlab.
+
+[5] Gao Cong, Zhongbo Hu, Zenggang Xiong, Qinghua Su. Grey Prediction Evolution Algorithm Based on Accelerated Even Grey Model. IEEE Access, vol. 8, pp. 107941-107957, 2020.  https://doi.org/10.1109/ACCESS.2020.3001194. Corresponding Mat.Code: GPEae-matlab.
