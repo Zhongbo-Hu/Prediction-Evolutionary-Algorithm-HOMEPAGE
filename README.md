@@ -18,3 +18,7 @@ https://doi.org/10.1016/j.eswa.2021.114898. Corresponding Mat.Code: GPEAed-matla
 [6] Zhongbo Hu*, Zheng Li, Canyun Dai, et.al. Multiobjective grey prediction evolution algorithm for environmental/economic dispatch problem. IEEE Access, vol. 8, pp. 84162-84176, 2020. https://doi.org/10.1109/ACCESS.2020.2992116. Corresponding Mat.Code: MOGPEA_Matlab.
 
 [7] Gao Cong, Zhongbo Hu*, Zenggang Xiong, Qinghua Su. Grey Prediction Evolution Algorithm Based on Accelerated Even Grey Model. IEEE Access, vol. 8, pp. 107941-107957, 2020.  https://doi.org/10.1109/ACCESS.2020.3001194. Corresponding Mat.Code: GPEae-matlab.
+
+Articles -- Linare Prediction Evolutionary Algorithm:
+[1] Cong Gao, Zhongbo Hu*, Wangyu Tong. Linear prediction evolution algorithm: a simplest evolutionary optimizer, Memetic Computing, 2021.
+https://doi.org/10.1016/j.eswa.2021.114898. Corresponding Mat.Code: LPE_matlab.
