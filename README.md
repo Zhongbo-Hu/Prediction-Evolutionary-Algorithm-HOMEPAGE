@@ -21,13 +21,13 @@ https://doi.org/10.1016/j.eswa.2021.114898. Corresponding Mat.Code: GPEAed-matla
 
 [7] Gao Cong, Zhongbo Hu*, Zenggang Xiong, Qinghua Su. Grey Prediction Evolution Algorithm Based on Accelerated Even Grey Model, IEEE Access, vol. 8, pp. 107941-107957, 2020.  https://doi.org/10.1109/ACCESS.2020.3001194. Corresponding Mat.Code: GPEae-matlab. 
 
-[8] Gaocheng Cai, Qinghua Su, Zhongbo Hu. Automated test case generation for path coverage by using grey prediction evolution algorithm with improved scatter search strategy, Engineering Application of Artificial Intelligence, 2021, 106, 104454. https://doi.org/10.1016/j.engappai.2021.104454 . Corresponding Jav.Code: GPEfPC.
+[8] Gaocheng Cai, Qinghua Su*, Zhongbo Hu. Automated test case generation for path coverage by using grey prediction evolution algorithm with improved scatter search strategy, Engineering Application of Artificial Intelligence, 2021, 106, 104454. https://doi.org/10.1016/j.engappai.2021.104454 . Corresponding Jav.Code: GPEfPC.
 
-[9] Xiyang Xiang, Qinghua Su, Gang Huang, Zhongbo Hu. A simplified non-equidistant grey prediction evolution algorithm for global optimization, Applied Soft Computing, 2022, 125, 109081. https://doi.org/10.1016/j.asoc.2022.109081. Corresponding Mat. Code: NeGPE_CEC_matlab.
+[9] Xiyang Xiang, Qinghua Su*, Gang Huang, Zhongbo Hu. A simplified non-equidistant grey prediction evolution algorithm for global optimization, Applied Soft Computing, 2022, 125, 109081. https://doi.org/10.1016/j.asoc.2022.109081. Corresponding Mat. Code: NeGPE_CEC_matlab.
 
-[10] Cong Gao, Zhongbo Hu, Yongfei Miao, Xiaowei Zhang, Qinghua Su. Four adaptive grey prediction evolution algorithms with different types of parameters setting techniques. Soft Computing, 2022, 7. https://doi.org/10.1007/s00500-022-07228-z. Corresponding Mat. Code: aGPE_matlab.
+[10] Cong Gao, Zhongbo Hu*, Yongfei Miao, Xiaowei Zhang, Qinghua Su. Four adaptive grey prediction evolution algorithms with different types of parameters setting techniques. Soft Computing, 2022, 7. https://doi.org/10.1007/s00500-022-07228-z. Corresponding Mat. Code: aGPE_matlab.
 
-[11] Xiyang Xiang, Qinghua Su, Zhongbo. Non-equidistant grey prediction evolution algorithm: A mathematical model-based meta-heuristic technique. Swarm and Evolutionary Computation. 2023, 10.1016/j/swevo.2023.101276. Corresponding Mat. Code: NonGPE_CEC2019.
+[11] Xiyang Xiang, Qinghua Su*, Zhongbo. Non-equidistant grey prediction evolution algorithm: A mathematical model-based meta-heuristic technique. Swarm and Evolutionary Computation. 2023, 10.1016/j/swevo.2023.101276. Corresponding Mat. Code: NonGPE_CEC2019.
 
 ## * Grey Prediction Evolution Algorithm (GPE) -- Articles / other team 
 [12] Huimin Zhu, Xinping Xiao, Yuxiao Kang, Dekai Kong. Lead-lag grey forecasting model in the new community group buying retailing. Chaos, Solitons & Fractals, Volume 158, 2022, 112024. https://doi.org/10.1016/j.chaos.2022.112024.  (Wuhan University of Technology)
